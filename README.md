@@ -18,13 +18,13 @@ A comprehensive analysis of Daegu's real estate market using Power BI, analyzing
 
 ## Dashboards
 ### 1. Investment Analysis Dashboard
-![Investment Dashboard](docs/images/dashboard1.png)
+![Investment Dashboard](docs/images/Explore_Apartments_in_Daegu_Dashboard_1.png)
 - Average Property Price: 221.22K
 - Price per Sq.Ft: 231.50
 - YoY Price Growth: 30.94%
 
 ### 2. Location Intelligence Dashboard
-![Location Dashboard](docs/images/dashboard2.png)
+![Location Dashboard](docs/images/Explore_Apartments_in_Daegu_Dashboard_2.png)
 - Transit Accessibility Score: 0.47
 - Total Facilities Score: 9.87
 
@@ -41,10 +41,10 @@ A comprehensive analysis of Daegu's real estate market using Power BI, analyzing
 4. Ensure data connection to the CSV file in data folder
 
 ## DAX Measures
-Detailed documentation of DAX measures can be found in [DAX_Documentation.md](docs/DAX_Documentation.md)
+Detailed documentation of DAX measures can be found in [DAX Functions Documentation.pdf](docs/DAX_Functions_Documentation.pdf)
 
 ## Business Case Presentation
-The complete business case presentation is available in [presentation.pdf](docs/presentation.pdf)
+The complete business case presentation is available in [Daegu Real Estate_MarketAnalysis By Venkata Akhil Mettu.pptx](docs/Daegu_Real_Estate_Market_Analysis_By_Venkata_Akhil_Mettu.pptx)
 
 ## Contributing
 Feel free to fork this repository and submit pull requests for any improvements.
@@ -53,6 +53,6 @@ Feel free to fork this repository and submit pull requests for any improvements.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-[Your Name]
-[Your LinkedIn]
-[Your Portfolio Website]
+Venkata Akhil Mettu
+
+https://www.linkedin.com/in/venkata-akhil-mettu-51a48b277/
